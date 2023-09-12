@@ -42,6 +42,14 @@
       "telefono": "12345",
       "notas": "Esta bien menso",
       "id": 6
+    },
+    {
+      "nombre": "Jasmin",
+      "empresa": "Facebook",
+      "email": "jass@correo.com",
+      "telefono": "12345",
+      "notas": "Buena clienta",
+      "id": 7
     }
   ]
 }
